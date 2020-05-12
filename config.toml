@@ -28,7 +28,7 @@ theme = "hello-friend-ng"
     title = "tech-notes"
     subtitle = ""
     keywords = ""
-    copyright = ""
+    copyright = "Alan Platt"
     readOtherPosts = ""
 
     [languages.en.params.logo]
