@@ -85,3 +85,7 @@ lxc config set example2 boot.autostart true
 lxc config set example2 boot.autostart.priority 8
 lxc config set example2 boot.autostart.delay 1
 ```
+
+
+### Allow docker containers in lxc container
+```lxc config set example security.nesting true```
