@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes_apiGroups"
+title: "Kubernetes apiGroups - Quick ref"
 date: 2019-12-04T12:40:16Z
 draft: true
 toc: false
@@ -10,7 +10,7 @@ tags:
   - apiGroups
   - ClusterRole
 ---
-# apiGroups - Quick ref
+
 ### Get a list of apiGroups and appropriate verbs
 ```kubectl api-resources -o wide```
 

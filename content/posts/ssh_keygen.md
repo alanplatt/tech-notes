@@ -1,5 +1,5 @@
 ---
-title: "Ssh_keygen"
+title: "SSH Keygen - quick ref"
 date: 2020-06-01T16:04:02+01:00
 draft: true
 toc: false

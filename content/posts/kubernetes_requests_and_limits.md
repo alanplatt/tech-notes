@@ -1,5 +1,5 @@
 ---
-title: "Kubernetes_requests_and_limits"
+title: "Requests & Limits - Quick ref"
 date: 2020-05-01T15:05:26+01:00
 draft: true
 toc: false
@@ -11,8 +11,6 @@ tags:
   - cpu
   - memory
 ---
-# Requests & Limits - Quick ref
-
 [Full kubernetes doc](https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/)
 
 ### CPU
