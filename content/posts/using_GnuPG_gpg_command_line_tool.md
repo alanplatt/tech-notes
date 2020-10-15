@@ -1,7 +1,7 @@
 ---
 title: "GnuPG - quick ref"
 date: 2020-05-27T12:26:27+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

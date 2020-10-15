@@ -1,7 +1,7 @@
 ---
 title: "Gcloud command line auth"
 date: 2020-06-05T13:56:58+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

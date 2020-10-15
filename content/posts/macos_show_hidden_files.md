@@ -1,7 +1,7 @@
 ---
 title: "MacOS show/hide hidden files"
 date: 2020-05-13T14:31:31+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:

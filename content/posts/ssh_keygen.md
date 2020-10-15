@@ -1,7 +1,7 @@
 ---
 title: "SSH Keygen - quick ref"
 date: 2020-06-01T16:04:02+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
@@ -28,11 +28,11 @@ export DATE=$(date '+%Y-%m-%d')
 ssh-keygen -t ecdsa \
            -b 521 \
            -C "New key ${DATE}" \
-           -f "${HOME}/.ssh/id_ecdsa"
+           -f "${HOME}/.ssh/id_ecdsa_${DATE}"
 ```
 
 
 ### Copy your key to a host
 ```
-ssh-copy-id -i ~/.ssh/id_ecdsa.pub user@host
+ssh-copy-id -i "~/.ssh/id_ecdsa_${DATE}".pub user@host
 ```

@@ -1,7 +1,7 @@
 ---
 title: "lxc - quick usage"
 date: 2020-05-12T15:45:34+01:00
-draft: true
+draft: false
 toc: false
 images:
 tags:
